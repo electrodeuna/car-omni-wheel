@@ -4,12 +4,14 @@ Proyecto de Auto Carro Robot con Esp32 y ruedas omnidireccionales que permiten a
 
 ![image](https://github.com/electrodeuna/car-omni-wheel/assets/85527788/f4501d82-7abd-4019-b209-fdc6ecfe8533)
 
+Video: https://www.youtube.com/watch?v=B5IbkQZtDzU&t
+
 ## Librerias
 
 Descargar librerias ESPAsyncWebServer y AsyncTCP
 
-https://github.com/me-no-dev/ESPAsyncWebServer
-https://github.com/me-no-dev/AsyncTCP
+- https://github.com/me-no-dev/ESPAsyncWebServer
+- https://github.com/me-no-dev/AsyncTCP
 
 ## Como conectarse
 
