@@ -13,4 +13,4 @@ https://github.com/me-no-dev/AsyncTCP
 
 ## Como conectarse
 
-Para controlar el Auto/Carro deberan ingresar a la dirección que genera el Esp32, esto se hace conectado el Esp32 y dentro del Arduino Ide ir a Herramientas -> Monitor Serial y se mostrará la direccion a donde conectarse.
+Para controlar el Auto/Carro deberan ingresar a la dirección que genera el Esp32, esto se hace conectado el Esp32 a la PC y dentro del Arduino IDE ir a Herramientas -> Monitor Serial y se mostrará la direccion a donde conectarse.
