@@ -17,7 +17,7 @@ Descargar librerias ESPAsyncWebServer y AsyncTCP
 
 Para controlar el Auto/Carro deberan ingresar a la dirección que genera el Esp32, esto se hace dentro del Arduino IDE ir a Herramientas -> Monitor Serial
 
-![image](https://github.com/electrodeuna/car-omni-wheel/assets/85527788/f3d31b53-42cf-422a-8d8a-b44bae710899)
+![image](https://github.com/electrodeuna/car-omni-wheel/assets/85527788/6c2366eb-3826-48b1-842b-ae319e7bb061)
 
 Luego conectamos el Esp32 a la PC y luego de que se conecte al WiFu mostrará la direccion a donde conectarse.
 
