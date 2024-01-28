@@ -22,3 +22,8 @@ Para controlar el Auto/Carro deberan ingresar a la dirección que genera el Esp3
 Luego conectamos el Esp32 a la PC y luego de que se conecte al WiFu mostrará la direccion a donde conectarse.
 
 ![image](https://github.com/electrodeuna/car-omni-wheel/assets/85527788/a9e91608-ef19-4a4f-9977-a9b47d7e48e7)
+
+En nuestro celular ingresamos a la direccion que nos indica y ya podremos controlar el Auto/Carro
+
+![WhatsApp Image 2024-01-27 at 11 59 12](https://github.com/electrodeuna/car-omni-wheel/assets/85527788/60ba1a9f-db70-41f8-bae8-895db5bf665f)
+
